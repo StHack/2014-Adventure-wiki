@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="/cgi-bin/little_app.cgi?file=favicon.ico">
+
+    <title>Adventure Time</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="/cgi-bin/little_app.cgi?file=bootstrap.min.css&type=css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="/cgi-bin/little_app.cgi?file=cover.css&type=css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy this line! -->
+    <!--[if lt IE 9]><script src="/cgi-bin/little_app.cgi?file=ie8-responsive-file-warning.js&type=javascript"></script><![endif]-->
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    <div class="site-wrapper">
+
+      <div class="site-wrapper-inner">
+
+        <div class="cover-container">
+
+          <div class="masthead clearfix">
+            <div class="inner">
+              <h3 class="masthead-brand">Adventure Time</h3>
+              <ul class="nav masthead-nav">
+                <li><a href="/cgi-bin/little_app.cgi?file=index&type=html">Home</a></li>
+                <li><a href="/cgi-bin/little_app.cgi?file=Finn&type=html">Finn</a></li>
+                <li class="active"><a href="/cgi-bin/little_app.cgi?file=Jake&type=html">Jake</a></li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="inner cover">
+            <h1 class="cover-heading">Jake</h1>
+            <p class="lead">
+		Jake (full title: Jake the Dog), the deuteragonist of Adventure Time, is a magical dog and Finn's constant companion, best friend, and adoptive brother. Jake has Stretchy Powers (which he has had since he was a puppy), which allow him to stretch and manipulate his body, coming in handy on innumerable occasions throughout his and Finn's adventures. He is the son of Joshua and Margaret. Jake has a brother named Jermaine. Jake is 28 years old (as of his debut he could possibly be in his 30's by now due to the aging of other characters) in magical dog years, though he rarely acts mature. Then again, how exactly magical dog years correlate to human years remains to be seen. Both he and his girlfriend, Lady Rainicorn, share a passion for playing the viola. In the episode "Jake the Dad," he and Lady Rainicorn have 5 Rainicorn-dog hybrid puppies.
+            </p>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="/cgi-bin/little_app.cgi?file=bootstrap.min.js&type=javascript"></script>
+    <script src="/cgi-bin/little_app.cgi?file=docs.min.js&type=javascript"></script>
+  </body>
+</html>
+
